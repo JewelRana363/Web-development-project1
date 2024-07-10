@@ -59,6 +59,50 @@
         display: flex;
         justify-content: center;
         text-align: center;
+        margin-top: 50px;
+    }
+    .blog{
+        display: flex;
+        padding: 5px;
+        text-align: center;
+        justify-content: center;
+        gap: 50px;
+        box-shadow: opx 6px 50px 0px;
+        margin-top: 50px;
+    }
+    .blog1{
+        background-color: #e8cec8;
+    }
+    .blog2{
+        background-color: #EBEBEB;
+    }
+    .blog3{
+        background-color: #f3eaad;
+    }
+    .h4{
+        margin-top:  50px ;
+    }
+
+    .bannercard{
+    padding: 300px;
+        background-image: url(../B10A1-Challenge-Begins/assets/handshake.jpg);
+        background-size:auto;
+        font-size: 100px;
+        color: white;
+        background-position: center;
+        margin-top: 20px;
+        margin-left: 10px;
+    justify-content: center;
+    align-items: center;
+        
+        
+    }
+    .form{
+        font-size: 500px;
+        margin: 100px;
+        font-weight: 400px;
+        height: 400px;
+        
     }
     
         
